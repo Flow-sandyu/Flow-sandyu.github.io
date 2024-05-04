@@ -15,3 +15,5 @@
 ## 学习方法
 
 [mindmap 分享.md](/posts/学习方法/mindmap分享.md)
+
+2024-05-04
