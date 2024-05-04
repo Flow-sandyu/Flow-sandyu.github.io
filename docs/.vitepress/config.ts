@@ -32,12 +32,12 @@ export default {
   },
   lastUpdated: true,
   vite: {
-    // plugins: [
-    //   AutoSidebar({
-    //     ignoreIndexItem: true,
-    //     ignoreList: ["FILES"]
-    //   }),
-    // ],
+    plugins: [
+      AutoSidebar({
+        ignoreIndexItem: true,
+        ignoreList: ["FILES"]
+      }),
+    ],
   },
   markdown: {
     image: {
