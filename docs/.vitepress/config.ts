@@ -26,6 +26,9 @@ export default {
     search: {
       provider: "local",
     },
+    outline: {
+      level: [2,4]
+    }
   },
   lastUpdated: true,
   vite: {

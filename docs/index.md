@@ -2,6 +2,8 @@
 layout: home
 title: 首页
 
+markdownStyles: false
+
 hero:
   name: "Flowsand Cabin"
   text: "Just do it！"
@@ -17,7 +19,6 @@ import nav from './.vitepress/nav'
 const computedRecentPosts = computed(() => data.recentPosts.map(item => 
     ({...item, date: item.date.string})))
 </script>
-
 
 <div class="max-w-screen-lg w-full px-6 py-8 my-0 mx-auto">
   <DetailedPostCard
