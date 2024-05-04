@@ -1,3 +1,11 @@
+---
+title: summary of 2024-04
+date: 2024-05-04
+abstract: 越来越积极的一个月  
+tags: 
+- 日记总结
+---
+
 # summary of 2024-04
 
 ## 整体概括
