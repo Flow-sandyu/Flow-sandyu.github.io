@@ -7,6 +7,7 @@ markdownStyles: false
 hero:
   name: "Flowsand Cabin"
   text: "Just do it！"
+  tagline: "I never thought about my daily preparation. It wasn't a matter of whether it was an option or not. It was, if I want to play, this is what I have to do, so I'd just show up and do it. -Kobe "
 
 ---
 
