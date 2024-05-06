@@ -17,3 +17,9 @@
 ## 学习方法
 
 [mindmap 分享.md](/posts/学习方法/mindmap分享.md)
+
+## 总结和复盘
+
+[diary of 2024-5.md](/posts/总结和复盘/diary%20of%202024-5.md)
+
+[summary of 2024-04.md](/posts/总结和复盘/summary%20of%202024-04.md)
