@@ -27,7 +27,7 @@ export default {
       provider: "local",
     },
     outline: {
-      level: [2,4]
+      level: 'deep'
     }
   },
   lastUpdated: true,
