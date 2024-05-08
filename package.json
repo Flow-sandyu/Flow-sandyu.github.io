@@ -2,8 +2,8 @@
   "name": "blog",
   "version": "1.0.0",
   "type": "module",
-  "repository": "git@github.com:ivestszheng/ivestszheng.github.io.git",
-  "author": "无声 <ivestszheng@qq.com>",
+  "repository": "git@github.com:Flow-sandyu/Flow-sandyu.github.io.git",
+  "author": "flowsand",
   "scripts": {
     "docs:dev": "vitepress dev docs --host",
     "docs:build": "vitepress build docs",
