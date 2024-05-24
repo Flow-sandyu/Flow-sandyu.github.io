@@ -6,7 +6,7 @@
 
 ## Tool
 
-[GPT 取代不了程序员.md](/posts/Tool/GPT取代不了程序员.md)
+[GPT 取代不了程序员.md](/posts/工具/GPT取代不了程序员.md)
 
 ## 学习方法
 
