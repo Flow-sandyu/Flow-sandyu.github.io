@@ -1,14 +1,8 @@
 # 文章目录
 
-## DSA
+## 编程
 
-### BinaryTree
-
-[中序遍历的迭代法.md](/posts/DSA/BinaryTree/中序遍历的迭代法.md)
-
-[另一棵树的子树.md](/posts/DSA/BinaryTree/另一棵树的子树.md)
-
-[翻转二叉树.md](/posts/DSA/BinaryTree/翻转二叉树.md)
+### 数据结构算法
 
 ## Tool
 
@@ -23,3 +17,7 @@
 [diary of 2024-5.md](/posts/总结和复盘/diary%20of%202024-5.md)
 
 [summary of 2024-04.md](/posts/总结和复盘/summary%20of%202024-04.md)
+
+## 冥想
+
+[李冉 14 天冥想笔记.md](/posts/冥想/李冉14天冥想笔记.md)
