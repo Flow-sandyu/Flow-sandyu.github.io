@@ -365,6 +365,141 @@ tags:
 如果我用瑜伽砖的话，根本就不可能出现右手腕疼痛发力受阻的情况。
 现在也就因为俯卧撑强度低，所以疼痛可以忽略不计，希望这样子的强度可以让右手腕适应过来
 
+## 2024-06-07
+
+感悟:
+把时间留给最重要的事情，找工作。 还有自私点，**把时间留给自己**，而不是社交平台、群聊信息、评论区等各种不重要的信息
+
+---
+
+冥想:
+
+21m
+
+这次冥想杂念很多，杂念大部分都是关于英语口语的学习，那也和我昨天晚上到凌晨还有刚醒来之后投入太多时间在英语口语学习上面导致我现在的状态有点接近于把英语口语学习融入生活的脑袋，大部分的 CPU 都在处理这件事情，比如我今天就很大部分时间想着翻译，因为英语没有汉语熟练，所以我用英语自我引导做调整时，我还要分一部精力去找词，组句，因为我不知道对应的英语表达，脑袋的哈希表没有储存这部分表达，我检索的很慢，以至于我要调用一个中译英的接口尝试找到这个表达，这就让我更分神了
+
+所以当我尝试冥想的时候，我要花更多的精力，是让自己平静下来，找到专注、觉知和自我控制的感觉
+
+其实将 xx 融入生活是一种很好的做法和状态，但如果 xx 不是你想要的方向，这就很苦恼了。比如我冥想的时候想 empty my mind，远离外界信息（一开始是互联网信息，他人的信息，后面是自我的杂念），探索内心，但 `将xx 融入生活` 就是那个“自我的杂念”，这个太难平静了。
+
+关于解决的方法。一是起床后什么信息都别接触，直接冥想，这次就是手贱去点开了英语口语的学习；二是多练，冥想也是技艺，熟能生巧；三是用好默念的力量，他比你单纯的专注复习会更好用一些
+
+During my meditation this time, I had a lot of distracting thoughts, **most of which were about learning spoken English**. This is because I spent too much time on English speaking practice from last night until early morning and right after waking up, which has led me to almost obsess+ over integrating English learning into my daily life, even during my meditation. Most of my **brain's CPU** is focused on this matter.
+
+For example, today, I spent a lot of time thinking about translations because I'm not fluent in English like I am in Chinese. So, when I try to adjust myself using English self-guidance, I also have to spend some energy searching for words and constructing sentences because I don't know the corresponding English expressions.
+
+My brain doesn't store these expressions in the commonly accessed memory areas, so I have to search for the expressions I need in the less frequently used memory regions, which slows down my retrieval process.
+
+Sometimes, I even have to use a Chinese-to-English translation tool in my mind to find the right expressions, which further distracts me.
+
+Therefore, when I attempt to meditate,** I need to exert more effort to calm myself down**, find the feeling of focus, mindfulness, and self-control.
+
+`Integrating something into your life` is usually a good practice and state of being. However, if that something is not what you desire, it can be distressing. For instance, when I meditate, I aim to empty my mind, distance myself from external information (initially from the internet and others' input, later from my own distractions), and explore my inner self. But the concept of 'integrating something into your life' is one of those distracting thoughts that make it difficult to achieve inner peace today.
+
+As for solutions, firstly, I should avoid all kinds of information and **meditate right after I wake up**, but unfortunately, this time I couldn't resist and clicked on English oral language learning. Secondly, practice makes perfect, and meditation is a skill that improves with time. Thirdly, harnessing the power of **silent mental repetition** can be more effective than just focusing on breath
+
+Plan for tomorrow:
+
+-   [x] ~~2024-06-08 11:12~~ 音频【跟练】自我练习（人声）
+
+---
+
+英语:
+
+精听 18m
+
+没办法，难还是难。
+但配合上碎片化时间练的几句，这样加起来一天练的也不少了。
+
+    ---
+
+gpt 辅助写日记
+
+-   这里介绍一下方法
+
+-   如果有很多表达都不知道怎么说
+
+    -   把自己想说的话让 gpt 先翻译为英文，然后自己读一遍。把自己不熟悉的表达在 `WordMeaning` gpt 里学一遍；把意思表达不准确的尝试用自己的话去修改，然后发给 `Suggestions for English phrasing.` gpt，尝试得到准确且和适的表达
+
+-   如果能大概用自己的话说出来
+
+    -   直接用自己的话发给 `Suggestions for English phrasing.` gpt，让他帮忙修改，得到更准确和地道的表达
+
+-   If there are many expressions you are unsure of how to phrase and express
+
+    -   Let GPT translate what you want to say into English first, then read it yourself. Learn unfamiliar expressions through `WordMeaning GPT`; if the meaning is not accurately conveyed, try to rephrase it in your own words, then send it to `Suggestions for English phrasing GPT` to get accurate and appropriate expressions.
+
+-   If you could roughly put it in your own words
+
+    -   send it to`Suggestions for English phrasing GPT`, asking for help with modifications, you would get a more accurate and authentic expression.
+
+-   Just try this study method for one week first to see if it works well.
+
+---
+
+运动:
+
+篮球 18 分钟，
+
+33 球
+
+卡在 1-3 1-4 2-3 这三个点
+1-4 的问题就是需要的力量大之后，对球方向的控制感就降低，右手还能勉强控制主，但左手就随缘了
+
+Stuck at points 1-3, 1-4, and 2-3.
+The issue at point 1-4 is that when a greater force is needed, the sense of control over the direction of the ball decreases. The right hand can still control it reluctantly+, but the left hand just goes with the flow.
+
+俯卧撑
+
+14 14 14
+
+因被动不足导致的右手腕痛的问题还存在
+"The problem of right wrist pain caused by insufficient passive movement still exists.
+
+---
+
+阅读:
+
+看回网文 罪恶之城，不记得第几次看这本书了，主要还是想看看流砂
+
+有种感觉，假如我看了一定程度的英语网文，我自然也会积累很多表达。确实 是阅读量会改变阅读能力
+
+还是依旧选择跳读式浏览，只看自己感兴趣的内容。和看三体时一样，但真希望有一天自己看英文时也能这么熟练
+
+## 2024-06-08
+
+改进:
+
+---
+
+找工作:
+
+---
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+---
+
+阅读
+
+---
+
+推荐
+
+分享两个关于夜场酒吧的视频。两个视角
+
+【我的夜场人生】 https://www.bilibili.com/video/BV1eT421Y7FQ/?share_source=copy_web&vd_source=cb804c92cb9aca2966f586712caac3aa
+
+【vlog | 趁着闺蜜妈妈不在家，偷溜出来和她体验北京夜店蹦迪夜生活，没想到。。。】 https://www.bilibili.com/video/BV14N411Y7ov/?share_source=copy_web&vd_source=cb804c92cb9aca2966f586712caac3aa
+
 ##
 
 改进:
