@@ -24,7 +24,7 @@ interface data {
 declare const data: Post[];
 export { data };
 
-export default createContentLoader(["posts/*/*.md", "posts/*/*/*.md"], {
+export default createContentLoader(["posts/*/*.md", "posts/*/*/*.md", "posts/*/*/*/*.md"], {
   transform(raw): data {
     const postMap = {};
     const yearMap = {};

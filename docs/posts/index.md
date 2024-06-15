@@ -2,7 +2,31 @@
 
 ## 编程
 
+### Java
+
+[JavaWeb_MindMap.md](posts/编程/Java/JavaWeb_MindMap.md)
+
+[Maven_MindMap.md](posts/编程/Java/Maven_MindMap.md)
+
+[MyBatisPlus_MindMap.md](posts/编程/Java/MyBatisPlus_MindMap.md)
+
+[SpringMVC_MindMap.md](posts/编程/Java/SpringMVC_MindMap.md)
+
+[Spring_MindMap.md](posts/编程/Java/Spring_MindMap.md)
+
 ### 数据结构算法
+
+Array
+
+Binary
+
+Hashing
+
+LinkedList
+
+Stack_Queue
+
+String
 
 ## Tool
 
@@ -14,9 +38,11 @@
 
 ## 总结和复盘
 
-[diary of 2024-5.md](/posts/总结和复盘/diary%20of%202024-5.md)
+[diary of 2024-5.md](/posts/总结和复盘/diary_of_2024-5.md)
 
-[summary of 2024-04.md](/posts/总结和复盘/summary%20of%202024-04.md)
+[diary of 2024-6.md](/posts/总结和复盘/diary_of_2024-6.md)
+
+[summary of 2024-04.md](/posts/总结和复盘/summary_of_2024-04.md)
 
 ## 冥想
 
