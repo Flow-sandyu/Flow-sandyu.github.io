@@ -4,15 +4,15 @@
 
 ### Java
 
-[JavaWeb_MindMap.md](posts/编程/Java/JavaWeb_MindMap.md)
+[JavaWeb_MindMap.md](/posts/编程/Java/JavaWeb_MindMap.md)
 
-[Maven_MindMap.md](posts/编程/Java/Maven_MindMap.md)
+[Maven_MindMap.md](/posts/编程/Java/Maven_MindMap.md)
 
-[MyBatisPlus_MindMap.md](posts/编程/Java/MyBatisPlus_MindMap.md)
+[MyBatisPlus_MindMap.md](/posts/编程/Java/MyBatisPlus_MindMap.md)
 
-[SpringMVC_MindMap.md](posts/编程/Java/SpringMVC_MindMap.md)
+[SpringMVC_MindMap.md](/posts/编程/Java/SpringMVC_MindMap.md)
 
-[Spring_MindMap.md](posts/编程/Java/Spring_MindMap.md)
+[Spring_MindMap.md](/posts/编程/Java/Spring_MindMap.md)
 
 ### 数据结构算法
 
