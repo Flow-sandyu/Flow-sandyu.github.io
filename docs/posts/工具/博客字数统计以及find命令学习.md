@@ -1,3 +1,11 @@
+---
+title: 博客字数统计以及 find 命令学习
+date: 2024-06-24
+abstract:
+tags:
+  - Command Line
+---
+
 # 博客字数统计以及 find 命令学习
 
 字数统计的命令:
