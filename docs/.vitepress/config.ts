@@ -1,5 +1,6 @@
 import AutoSidebar from "vite-plugin-vitepress-auto-sidebar";
 import nav from './nav'
+import taskLists from 'markdown-it-task-lists';
 
 export default {
   lang: "zh-CN",
@@ -40,10 +41,13 @@ export default {
     ],
   },
   markdown: {
+    config: (md) => {
+      md.use(taskLists, {labelAfter: true})
+    },
     image: {
       lazyLoading: true,
     },
-    lineNumbers: true,
+    lineNumbers: true
   },
   cleanUrls: true,
 };
