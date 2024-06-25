@@ -1,18 +1,19 @@
 import AutoSidebar from "vite-plugin-vitepress-auto-sidebar";
 import nav from './nav'
 import taskLists from 'markdown-it-task-lists';
+import { createRssFile } from "./utils/rss";
 
 export default {
   lang: "zh-CN",
   title: "Flowsand Cabin",
   description: "Just do it",
   titleTemplate: true,
-  abstract: "菜鸡的日常分享",
+  abstract: "心怀好奇心，每日冥想、运动、学英语和写代码的人，写一些想写的东西",
   base: "/",
   themeConfig: {
     nav,
     footer: {
-      copyright: "Copyright © 2024-present flowsand",
+      copyright: "Copyright© 2024-present flowsand",
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/Flow-sandyu" },
@@ -23,6 +24,12 @@ export default {
         link: "https://space.bilibili.com/172483360",
         ariaLabel: "bilibili",
       },
+      {
+				icon: {
+					svg: '<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>RSS订阅</title><path d="M108.56,342.78a60.34,60.34,0,1,0,60.56,60.44A60.63,60.63,0,0,0,108.56,342.78Z"/><path d="M48,186.67v86.55c52,0,101.94,15.39,138.67,52.11s52,86.56,52,138.67h86.66C325.33,312.44,199.67,186.67,48,186.67Z"/><path d="M48,48v86.56c185.25,0,329.22,144.08,329.22,329.44H464C464,234.66,277.67,48,48,48Z"/></svg>',
+				},
+				link: "/feed.xml",
+			},
     ],
     search: {
       provider: "local",
@@ -34,9 +41,10 @@ export default {
   lastUpdated: true,
   vite: {
     plugins: [
+      // https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar
       AutoSidebar({
         ignoreIndexItem: true,
-        ignoreList: ["FILES"]
+        ignoreList: ["FILES", "aboutme"]
       }),
     ],
   },
@@ -50,4 +58,5 @@ export default {
     lineNumbers: true
   },
   cleanUrls: true,
+  buildEnd: createRssFile,
 };

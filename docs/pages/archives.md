@@ -2,6 +2,7 @@
 layout: page
 title: 归档
 sidebar: false
+lastUpdated: true
 ---
 
 <script setup>
