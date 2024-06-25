@@ -30,8 +30,7 @@ export async function createRssFile(config: SiteConfig) {
         if (feed.items.length >= 3) {
             break;
         }
-        const lastStr = url.split('/').pop();
-        const title = lastStr?.substring(2, lastStr.length - 5) || ''
+        const title = frontmatter.title
         feed.addItem({
             title,
             id: `${hostname}${url}`,
