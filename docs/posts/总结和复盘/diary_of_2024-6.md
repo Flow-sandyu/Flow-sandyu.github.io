@@ -1315,6 +1315,45 @@ Besides,now I'm getting used to the speaker's accent and the way he speaks a bit
 
 ## 2024-06-26
 
+冥想:
+
+自由冥想 11m
+
+杂念一多，停留在不同的杂念的话，冥想的时间就显得很短了，会感觉留给自己的时间变少，或者自己清醒的时间变少，我应该在生活方式的改变上也多做点努力。
+
+倒是慈心的效果出乎我意料，现在这个练习的效果很稳定，让我平静的效果比我想象中好。
+
+Plan for tomorrow: 自由冥想
+
+-   生活方式多做点改变
+-   冥想开始后，观察杂念的心眼要留
+-   冥想前段投入更多专注，帮助静下来
+
+---
+
+英语:
+
+精听 14m
+
+今天遇到一句就很明显是有几个 phrases 来组成的，说话人的节奏很好，其实母语者也是随着这个节奏去拆分理解句子的
+
+“What would the world be like if we were speaking powerfully to people who were listening consciously in environments which were actually fit for purpose?”
+
+感兴趣可以去听听音频，
+另外我对 `**语块**: match the phrase with a scene `的理解，在 2024-06-24
+
+---
+
+运动:
+
+篮球 14m 28
+
+1-4 5/20
+
+俯卧撑 4m 三个 15
+
+## 2024-06-27
+
 改进:
 
 ---
