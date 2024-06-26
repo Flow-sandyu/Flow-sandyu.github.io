@@ -1276,7 +1276,7 @@ Besides,now I'm getting used to the speaker's accent and the way he speaks a bit
 【肱三头肌肌腱炎｜运动康复】 https://www.bilibili.com/video/BV1ow411m74Q/?share_source=copy_web&vd_source=cb804c92cb9aca2966f586712caac3aa
 
 -   看到这个看过多次的 up 的视频。验证得出抖音也说的对
--   疼痛位置 ![Img](/总结和复盘/FILES/diary_of_2024-6.md/img-20240626192436.png)
+-   疼痛位置 ![Img](./FILES/diary_of_2024-6.md/img-20240626192436.png)
 
 ---
 
@@ -1309,7 +1309,7 @@ Besides,now I'm getting used to the speaker's accent and the way he speaks a bit
 
     -   不做肘部肌肉拉伸
     -   所有训练无痛进行，其中训练是逐渐进阶递增难度
-    -   还说到做肩关节稳定性练习，因为肱三头肌有一个头在肩胛骨上。下图中蓝色部分 ![Img](/总结和复盘/FILES/diary_of_2024-6.md/img-20240626192444.png)
+    -   还说到做肩关节稳定性练习，因为肱三头肌有一个头在肩胛骨上。下图中蓝色部分 ![Img](./FILES/diary_of_2024-6.md/img-20240626192444.png)
 
 下次尝试先用英文问一下 gpt，用英文在 Google 搜索问题，可能会更快得到准确信息。今天 Google 用中文搜索，第一个蹦出来的是抖音视频，确实收录的不行
 
