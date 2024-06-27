@@ -1406,7 +1406,7 @@ Plan for tomorrow: 自由冥想
 
 > I will give you a sentence (some words in the sentence will have a '+' at the end, some words will be wrapped in \*), and may provide some words in the sentence. Please explain the words with '+' in the sentence using simple English that fits the context. Additionally, please specify if this is written language or spoken language, formal or informal language, and provide the American phonetic transcription of the words.
 
-🎉 完成 `TED how to speak so that people want to listen`，搞定 3 个 100 ![Img](/总结和复盘/FILES/diary_of_2024-6.md/img-20240628033127.png)
+🎉 完成 `TED how to speak so that people want to listen`，搞定 3 个 100 ![Img](./FILES/diary_of_2024-6.md/img-20240628033127.png)
 
 plan for tomorrow:
 
@@ -1419,7 +1419,7 @@ plan for tomorrow:
 具体到练习执行上，不要把太多时间花在听那些看不懂的句子，这些句子听几遍，看看答案就好，不要陷进去。
 然后人是有求知欲的嘛，你就会忍不住想知道他是什么意思，这也很正常，但是在听力练习的时候你要克制一下，你可以把它做个标记，记录下来以后整理的多的时候，一次性把查一遍，这个时候的练习重点就是放在阅读理解上了。
 
-再具体到查的方法上面，我推荐你用英语去解释，或者结合其它语境信息，比如视频、图片，动作，想象等等，但千万不要用中文解释，也就不要用中文翻译。 具体的我就不展开了。有人想听我再说，我也推荐一下听典英语 app 系统消息的这篇文章 `关于中文翻译`，反正是免费的，去看看吧 ![Img](/总结和复盘/FILES/diary_of_2024-6.md/img-20240628033134.png)
+再具体到查的方法上面，我推荐你用英语去解释，或者结合其它语境信息，比如视频、图片，动作，想象等等，但千万不要用中文解释，也就不要用中文翻译。 具体的我就不展开了。有人想听我再说，我也推荐一下听典英语 app 系统消息的这篇文章 `关于中文翻译`，反正是免费的，去看看吧 ![Img](./FILES/diary_of_2024-6.md/img-20240628033134.png)
 
 ---
 
