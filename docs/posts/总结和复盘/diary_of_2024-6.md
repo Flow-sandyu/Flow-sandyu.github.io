@@ -1569,6 +1569,25 @@ https://www.bilibili.com/video/BV1Jr421V7bv/?share_source=copy_web
 
 ## 2024-06-30
 
+冥想:
+
+祈祷冥想
+
+> If you wish to be there you have the ways to do it. And the flame (power) in the heart never goes out.
+
+---
+
+英语:
+
+精听 20 m
+
+我的中文听力差距好大啊 😂，真的听进去的每一个音都是分开的，组不起来. 真的就难在分词组句。
+虽然单个的单词放在语境下现在也分不清，但长句子下，单词辨别不清，句子拆分不清，真的是一团乱麻 😂。
+
+只能缩短要练习的句子长度，一点点锻炼自己大脑识别单词，拆分句子 组合语块输出的能力，循序渐进吧。方法很多，比如拆分 放慢 复述 字幕提示 ai 语音等等可以降低难度
+
+## 2024-07-01
+
 改进:
 
 ---
