@@ -393,23 +393,45 @@ starts with a scene showing a car being towed away for illegal parking.
 
 ## 2024-07-14
 
-改进:
-
----
-
-找工作:
-
----
-
 冥想:
+
+15m 此刻此地的练习+脊柱向前向后
+
+此刻此地的练习
+
+-   发现很好用，会觉知到一起以前一直忽视的东西，会有一种安定感，更容易回到当下
+
+身体活动
+
+-   提升对身体的感受，减少杂念和执念，回到当下
+
+Plan for next's 一日静修的 动静结合晨练
+
+-   找个一整段时间完整的过完这个，就当新知识学习了
+-   有时没动力冥想做做这个也不错
 
 ---
 
 英语:
 
+精听 20
+
+今天这些日常随意的真实短句，有点变态啊，变音省略太离谱了。太离谱了，gotta 这轻读的程度。唉，尝试理解一下，代入一下母语者，另外看看他们的视角
+
+It's kinda overwhelming that in the scene where Chris argues with Linda about taxes, Chris appears powerless and Christopher can only remain silent.
+
 ---
 
 运动:
+
+10m
+
+俯卧撑 15 15 15 15
+
+直腿反向卷腹 15 15 15
+平板支撑 60
+
+明天腿恢复后，深蹲加腹部训练吧，俯卧撑就最后做一组收尾
 
 ##
 
