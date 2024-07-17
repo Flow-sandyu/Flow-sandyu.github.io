@@ -433,39 +433,85 @@ It's kinda overwhelming that in the scene where Chris argues with Linda about ta
 
 明天腿恢复后，深蹲加腹部训练吧，俯卧撑就最后做一组收尾
 
-##
+## 2024-07-15
 
 冥想:
+
+此刻此地的练习+呼吸+Dalio.思考+慈心
+
+断社交平台后的惊喜 - **改变生活方式起效了**
+
+-   因为断了社交平台，今天遇到的一些杂念种类也减少，最多就回到自己看到电视剧 avatar 和一个游戏的几个人物，这样真的舒服很多。
+-   **社交平台的信息太碎片了**，也就是量多且种类多，这对于杂念来说无疑是**爆炸式乘法**，个人在冥想时其实是很难处理这些杂念的，能在 10m 左右尽量减少这些杂念就很不错，更不用说去做进一步的思考或者更深入的冥想，因为静不下来的话，其它冥想技巧都用不出来
+-   如果冥想的时候都静不下来，杂念纷飞，那么**日常生活其实也容易走神的**，日常干活的话、如果不是很喜欢很投入的活，也很容易走神，甚至会因为杂念不断，而产生难以开始干活的情况。
+
+> Meditation has been invaluable in helping me see things that way. I found that when I **calmed myself down and embraced my realities and dealt with them,** the rewards brought me pleasure and the pain faded.- Dalio
+
+-   意外的好用，即使不能在几分钟的思考中 think through，但也是有帮助了，因为开始静下来了
+
+-   🎇 日常生活 干活也能这么做。
+
+    -   急躁，静不下来，不知道怎么做，不想做了的时候。那就让自己慢下来，做呼吸静下来后，去想一下这个东西，这种情况下，也不用急，自己会慢慢想到一个方向的。而且这样做想东西时也不要求闭眼，和冥想会稍微不同，想的时候卡住了就回看笔记，带着这种冷静、稳定的心态去找新资料，找到后再回到思考。
+
+-   Besides, after calming down, my pain really fades out, because I start to face the reality, my attention starts to transfer to reality and starts to think how to deal with it, other than getting drowned in the pain, tons of different distractions
+
+Plan for next's 此刻此地的练习+呼吸+Dalio.思考+慈心
+
+-   冥想开始后，观察杂念的心眼要留
+-   冥想前段投入更多专注，帮助静下来
+-   前几次 10 次呼吸效果不好的话，可以转到 souheng，或者直接四四呼吸
+-   早起冥想，练前吃巧克力，把上呼吸道的异物清理一下
+-   电脑音量调到 34
 
 ---
 
 英语:
 
+精听 24
+
+慢慢适应了。
+一句太难就限时然后跳过，不要在意一句的失败，不然把时间都投到这一句，性价比很低。又不是所有都很难
+
 ---
 
 运动:
 
-##
+10m
 
-改进:
+自重深蹲 20 20 20 20
 
----
+直腿反向卷腹 20 20 20 20
 
-找工作:
+俯卧撑 30
 
----
-
-冥想:
-
----
+## 2024-07-16
 
 英语:
 
+精听 22
+
+还是难 ，脑子里这个音就没对应这个 phrase，或者就没有这个音，真实语料就是如此多变。只能调整心态了
+
+水平不到位。那就走流程，盲听了，复述了、用了学习技巧，代入了就行
+
+还有不要在意一句的失败
+
+plot comment:
+Chris is not understood by Linda, and the pursuit of dreams is so difficult.
+
 ---
 
 运动:
 
-##
+10m
+
+俯卧撑 15 15 15 15
+
+自重深蹲 15 15 （大腿后侧靠屁股的大腿侧边还没恢复）
+
+直腿反向卷腹 15 15 平板支撑 60
+
+## 2024-07-17
 
 改进:
 
