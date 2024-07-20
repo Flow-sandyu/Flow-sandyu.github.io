@@ -603,17 +603,49 @@ This is too tragic, even the street singer comes to steal the machine.
 
 运动:
 
-##
+## 2024-07-20
 
 冥想:
+
+13
+此刻此地的练习+呼吸+Dalio.思考+慈心
+
+日常的练习，静下来和思考，刷新清醒度，加上清醒度持久的 buff
+
+Plan for tomorrow
+此刻此地的练习+呼吸+慈心+Dalio.思考
+
+-   改一下顺序思考顺序，思考完的话就直接做重点记录了
+
+-   此刻此地的练习最后的思考别忘了
+-   呼吸尽早换四四呼吸，这个猛一点
+-   冥想开始后，观察杂念的心眼要留，加上标记
+-   冥想前段投入更多专注，帮助静下来
+
+-   早起冥想，练前吃巧克力，把上呼吸道的异物清理一下
+-   电脑音量调到 34
 
 ---
 
 英语:
 
+精听 20
+
+plot comment:
+
+Daycare lets children watch TV. Chris has a common complaint about this.
+
 ---
 
 运动:
+
+10m
+
+俯卧撑 30
+
+自重深蹲 20 20 20 20
+
+直腿反向卷腹 20 20 卷腹 20 20
 
 ##
 
