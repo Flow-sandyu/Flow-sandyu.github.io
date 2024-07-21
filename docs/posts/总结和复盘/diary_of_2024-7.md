@@ -595,18 +595,6 @@ This is too tragic, even the street singer comes to steal the machine.
 
 冥想:
 
----
-
-英语:
-
----
-
-运动:
-
-## 2024-07-20
-
-冥想:
-
 13
 此刻此地的练习+呼吸+Dalio.思考+慈心
 
@@ -646,6 +634,97 @@ Daycare lets children watch TV. Chris has a common complaint about this.
 自重深蹲 20 20 20 20
 
 直腿反向卷腹 20 20 卷腹 20 20
+
+## 2024-07-20
+
+冥想:
+
+12
+此刻此地的练习+呼吸+Dalio.思考+慈心
+
+日常的作用，不可替代。坚持做还是不错的。
+生活方式方面，继续控制 infointake，时间管理上更多珍惜时间，穿插身体和大脑的休息
+
+Plan for tomorrow
+此刻此地的练习+呼吸+慈心+Dalio.思考
+
+-   此刻此地的练习最后的思考别忘了
+-   呼吸尽早换四四呼吸，这个猛一点。可以换到 55（今天 44 结束后居然呼吸还比较顺畅，导致效果差了点）
+-   冥想开始后，观察杂念的心眼要留，加上标记
+-   冥想前段投入更多专注，帮助静下来
+
+-   早起冥想，练前吃巧克力，把上呼吸道的异物清理一下
+-   电脑音量调到 34
+
+---
+
+英语:
+
+精听 21
+
+plot comment:
+Chris's bold approach to stopping Jay Twistle for job opportunities is impressive, and his conversation skills are good
+
+---
+
+运动:
+
+10m
+
+自重深蹲 20 20 20 20
+
+直腿反向卷腹 20 20
+卷腹 25 25
+
+俯卧撑 30
+
+## 2024-07-21
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
 
 ##
 
