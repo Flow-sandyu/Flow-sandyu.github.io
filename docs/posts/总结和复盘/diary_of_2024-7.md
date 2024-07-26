@@ -810,17 +810,27 @@ I don't expect him to lose the scanner due to rushing to the subway. What a sad 
 
 ## 2024-07-25
 
-冥想:
-
----
-
 英语:
+
+精听 21
+
+plot comment:
+It makes me laugh and a bit nervous that the guy keeps talking about the score around Chris.
 
 ---
 
 运动:
 
-##
+篮球 15m
+
+一/三 二十七中 5
+一/四 七中零
+
+又回到原点了，看来换姿势是真的难。这个姿势反而不顺手，力气变小了，而且也有一段时间没有打什么的 生疏了，还有今天一直刮侧边风
+
+俯卧撑 23，22
+
+## 2024-07-26
 
 冥想:
 
