@@ -834,15 +834,43 @@ It makes me laugh and a bit nervous that the guy keeps talking about the score a
 
 冥想:
 
+12 此刻此地-主动呼吸-慈心
+
+主动呼吸现在可以轻松坐到 6 拍，也就是说我**对呼吸的控制其实已经提升了**，然后肺活量可能也提升了一点。一开始练习这个的时候，我可是 4 拍，很难去维持
+
+杂念还是有，且散，不是自己想要的。日常还需继续控制 infointake，做好暗时间、大脑后台管理
+
+冥想练习到现在，确实是瓶颈，昨天看到一个评论说自己练习了 1 年多，反而变成 15m 都很难坐住。感觉练习动力很重要，**要坚持练习**，即使是每天练练入定的功夫，比如专注呼吸，让自己静的更快这也是很值得，这是一个熟能生巧的技能
+
 ---
 
 英语:
+
+精听 21
+
+plot comment:
+Chris somewhat didn't take responsibility; he won't care about Linda's feelings. The words he said, "You're so weak," are very harsh. Then it's sad that he can't pay the rent.
 
 ---
 
 运动:
 
-##
+没想到大佬做 handstand push·up 也会有一个手的手指不伸直，可能这个手指的问题比我想象中轻，我可以多尝试一下手掌俯卧撑
+![Img](./FILES/diary_of_2024-7.md/img-20240727081658.png)
+
+自重深蹲 30
+高脚杯深蹲 10kg 20 20
+
+-   工作时增加休息频率，减少久坐持续时间。 今天训练时感觉到髂腰肌的位置很紧张，已经有点影响深蹲的运动表现
+
+仰卧起坐 30 20 20
+
+手掌俯卧撑 30
+
+-   虽然大脑做的没问题，但是我做完这三次课之后，明显感觉右手腕比左手腕负荷大，有一点点痛感
+-   🎇 还是说我要双手平衡，这样两边手腕、肩部负荷一样大，虽然做俯卧撑的难度变大了，但受伤风险降低了
+
+## 2024-07-27
 
 冥想:
 
