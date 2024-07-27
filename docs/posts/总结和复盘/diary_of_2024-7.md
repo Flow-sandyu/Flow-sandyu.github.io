@@ -874,6 +874,64 @@ Chris somewhat didn't take responsibility; he won't care about Linda's feelings.
 
 冥想:
 
+18 此刻此地-主动呼吸-慈心-思考·休息
+
+最后休息确实舒服，就坐着，我感觉我配合坐姿调整，不管时间的话还能坐很久
+
+改进:
+
+-   一开始坐姿调整一下，身体两侧平衡，屁股在凳子的位置相同
+
+---
+
+英语:
+
+精听 24
+
+plot comment:
+Chris was so powerless when he made his phone call to Linda, and it's so helpless that he has to be detained.
+
+---
+
+运动:
+
+强度上来后，发现就感觉不到瓶颈了
+
+15kg 高脚杯深蹲 15 15 15 15
+
+手掌俯卧撑 15 15 15
+
+-   感觉睡姿压得左肩有痛感
+-   可以尝试换姿势了，比如那个爆发力俯卧撑，或者买个负重衣。深蹲也能用
+
+## 2024-07-28
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
 ---
 
 英语:
