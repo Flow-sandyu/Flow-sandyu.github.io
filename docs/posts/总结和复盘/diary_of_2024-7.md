@@ -908,15 +908,55 @@ Chris was so powerless when he made his phone call to Linda, and it's so helples
 
 冥想:
 
+15 此刻此地-主动呼吸-慈心-思考
+
+怪不得今天感觉第一个钟声这么慢，第一个准备来之前都出现了这样的杂念，“我是不是忘了设闹钟，怎么过了这么久还没响铃，按理说我今天这个专注程度，时间应该过的很快，应该早就过了铃声了”。练习完后才发现，自己把时间完后推迟了 1-2 分钟。 没想到自己的感觉这么准确，可能确实是这个**时长练多了，大脑习惯了**
+
+**主动呼吸的速度放慢后**，发现主动呼吸节拍 6 都很难了，节拍 5 勉强维持，4 就舒服一些。 但 5 的话难度刚好，有助于集中注意力，放开控制后也能明显感受控制呼吸和放开控制呼吸的区别。
+
 ---
 
 英语:
+
+精听 40m
+
+plot comment:
+
+Chris didn't even have time to change his clothes due to being detained until 9:30 AM. But He is so active and calm during the interview, even while facing such a disadvantageous situation. I'm glad to know that he eventually got through the interview.
+
+新增栏目·听典英语 app 英语角的分享:
+![Img](./FILES/diary_of_2024-7.md/img-20240729125027.png)
+
+听典新用法·不做笔记:
+只记录听不出的音，不记录句子难度的标记了。如图 ![Img](./FILES/diary_of_2024-7.md/img-20240729125034.png)
+
+-   原因: 我练了这么久，记录了这么多次句子的难度。但其实也没去复习，可以说这种标记是用不上的。
+-   最多 app 里点个收藏，碎片化时间还能听听。
+-   至于为什么标记听不出的音，因为可以可视化、统计自己的弱点，这也是从胡津铭分享里学到的
 
 ---
 
 运动:
 
-##
+15kg 高脚杯深蹲 15 20 16
+
+俯卧撑 手向后 15 爆发 15 15
+
+平板支撑 60s
+
+真的是每组结束都在喘气
+
+    ---
+
+分享视频 [Chris Heria Eats JUNK FOOD For 24 Hours - YouTube](https://youtu.be/g7pWhyl1FWI)
+
+"It's a bit too intense for me to watch him eat like this, and his idea of healthy eating has also changed my views on diet a lot."
+
+> when you're used to eating healthy. You'll definitely be able to see more of the effect that it(junk food) will have on somebody that's eating this stuff. - Chris
+
+-   可能 Chris 的饮食观和冥想对人的改变有点像。比如体验过冥想时入定后的清醒，就会发现日常生活时杂念纷飞，就会发现冥想、清醒的珍贵
+
+## 2024-07-29
 
 冥想:
 
