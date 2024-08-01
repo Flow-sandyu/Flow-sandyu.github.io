@@ -1020,15 +1020,35 @@ No salary for six months, and Linda is going to New York. It's so tough. He is s
 
 冥想:
 
+起床不冥想后，还真的就很难在剩下的时间去冥想的
+但一些习惯和冥想的观念还是会影响生活，运用到生活中
+
 ---
 
 英语:
+
+精听 21
+
+When it comes to Chris's work plot, the tutor's speaking speed becomes fast, making it hard to hear clearly because I’m not familiar with the pronunciation.
 
 ---
 
 运动:
 
-##
+跑步 1.6+km
+
+右脚踝跑伤了一点，跑完走路。才发现。
+
+累还是累，好久没跑了。
+但新鲜感还是有的。偶尔跑一下也不错。
+
+还有一个感受就是呼吸不是越长越好，适当缩短一下也不错，不要把冥想的呼吸模式带进来了
+
+下次跑步:
+注意一下脚踝的跑姿
+调整呼吸，适当缩短，加快频率
+
+## 2024-08-01
 
 冥想:
 
