@@ -1050,17 +1050,27 @@ When it comes to Chris's work plot, the tutor's speaking speed becomes fast, mak
 
 ## 2024-08-01
 
-冥想:
-
----
-
 英语:
+
+精听 21
+
+When it comes to Chris's work plot, the tutor's speaking speed becomes fast, making it hard to hear clearly because I’m not familiar with the pronunciation.
 
 ---
 
 运动:
 
-##
+打篮球 20 球
+
+1-4 5/40
+
+力气感觉确实大了 但是姿势不稳定，所以命中率还是低
+
+还有一个经验就是偷懒的时候不要换姿势，不要投篮不中就换姿势，还得硬着头皮练下去。 可以调整，但别换了。 就用这肩部的举球轨迹吧，多练就好了
+
+俯卧撑 30
+
+## 2024-08-02
 
 冥想:
 
