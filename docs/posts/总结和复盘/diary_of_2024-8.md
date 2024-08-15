@@ -70,14 +70,6 @@ Plan for tomorrow:
 
 ### 英语:
 
-2024-08-01
-
-精听 21
-
-When it comes to Chris's work plot, the tutor's speaking speed becomes fast, making it hard to hear clearly because I’m not familiar with the pronunciation.
-
----
-
 2024-08-02
 
 精听 21
@@ -132,6 +124,14 @@ Chris finally broke down for not paying the parking ticket and became homeless w
 2000 句了
 ![Img](./FILES/diary_of_2024-8.md/img-20240815065520.jpg)
 
+---
+
+2024-08-15
+
+159 words 23 sentences
+
+It's really touching and motivating because Chris is trying her best to find a place to stay
+
 ### 运动:
 
 2024-08-12
@@ -158,7 +158,22 @@ Chris finally broke down for not paying the parking ticket and became homeless w
 既没有力气，方向又不稳定，三分太难了。
 下次就缩短射程，把方向、姿势稳定了，不追求三分了，力量就磨发力技巧和做力训，也急不来
 
-##
+---
+
+2024-08-15
+
+慢波比 30
+三角起身 30
+
+-   只用一个手撑地面的话，收腿时很锻炼核心的控制力啊，不然落点不稳
+
+滚动弓箭步 12
+
+-   刚坐下去和刚起身时可以慢点，把膝盖力线调整好。
+-   刚坐下去时，大小腿不用夹角不用太小，刚刚够搭腿后勇敢坐下去就好，夹角太大太小都会让屁股坐歪，反而不爽，这个夹角具体度数感觉因人而异，要根据自己的身体情况去调整，反正让自己坐下去后歪的不太大就好，然后自己下肢也是舒服的状态
+-   刚起身时会有一种滚动的感觉，爆发性的把下肢滚起来，然后人就起身了
+
+## 2024-08-16
 
 冥想:
 
