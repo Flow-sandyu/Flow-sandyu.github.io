@@ -177,6 +177,14 @@ It's really touching and motivating because Chris is trying her best to find a p
 
 冥想:
 
+12m 此刻此地 主动呼吸 慈心
+
+今天状态感觉不错，很专注呼吸
+
+另外和昨天一样，一是醒来就搞、阻力较小，二是预期放低，12m 完成了就行。
+
+每天完完全全给自己一段安静的时间还是很好，很重要，舒服的，会作用于全天，每天坚持的话，会有更连续的状态。相当于自己每天起床，直接给自己上个冥想 buff，加持各种状态。
+
 ---
 
 英语:
@@ -185,7 +193,13 @@ It's really touching and motivating because Chris is trying her best to find a p
 
 运动:
 
-##
+慢波比 30
+三角起身 20
+滚动弓箭步 12
+
+-   做右腿的时候发现，在滚动刚坐下去和刚起身时的时间点，右膝周围的肌肉有一点痛感，感觉和肌肉 软组织有关系，休息几天不做这个动作先
+
+## 2024-08-17
 
 冥想:
 
