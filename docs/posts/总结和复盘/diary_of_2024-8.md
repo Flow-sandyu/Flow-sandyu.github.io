@@ -189,6 +189,10 @@ It's really touching and motivating because Chris is trying her best to find a p
 
 英语:
 
+147+ words 27 sentences
+
+Chris really had good communication and interaction with his son.
+
 ---
 
 运动:
@@ -200,6 +204,46 @@ It's really touching and motivating because Chris is trying her best to find a p
 -   做右腿的时候发现，在滚动刚坐下去和刚起身时的时间点，右膝周围的肌肉有一点痛感，感觉和肌肉 软组织有关系，休息几天不做这个动作先
 
 ## 2024-08-17
+
+冥想:
+
+12m 此刻此地 主动呼吸 慈心
+
+状态也还不错，但慈心后面部分明显走神了一次，大概是昨天没用的信息摄入太多了
+
+---
+
+英语:
+
+157 words 18 sentences
+
+The church music is indeed very moving at this moment; the atmosphere is very strong.
+
+## 2024-08-18
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
 
 冥想:
 
