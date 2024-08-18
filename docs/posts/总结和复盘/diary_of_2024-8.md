@@ -223,15 +223,31 @@ The church music is indeed very moving at this moment; the atmosphere is very st
 
 冥想:
 
+13m 此刻此地 主动呼吸 慈心
+
+今天冥想途中有两次瘙痒，但也度过去了。有点理解冥想前沐浴更衣的意思了
+
+慈心过程中走神了两次，但这两次走神和慈心的内容还有点相关。
+
 ---
 
 英语:
+
+156 words 19 sentences
+
+It's so awkward that Frohm asked Chris for 5 bucks, and it's even sadder that there's no room for them later. It's really hard to lack money and have no home to stay in. And the only option is to sell blood for money. ReWatching the movie at this age gives me a totally different feeling; I can feel more of the suffering that Chris goes through.
 
 ---
 
 运动:
 
-##
+慢波比 30
+三角起身 30
+俯卧撑 2\*20
+
+还是不能做滚动弓箭步，感觉还和自己右腿膝关节和髋关节处活动度有关，以前想搞双盘然后右腿活动度明显不足，然后搞得一些操作积累下来了伤痛，但影响也不大，休息一会儿。 以后想搞双盘得重新找资料学一下
+
+## 2024-08-19
 
 冥想:
 
