@@ -251,15 +251,38 @@ It's so awkward that Frohm asked Chris for 5 bucks, and it's even sadder that th
 
 冥想:
 
+13m 此刻此地 主动呼吸 慈心
+
+到慈心的时候又开始走神了，感觉还是要学会、习惯放下，留一个心眼观察杂念，在沉思之外的阶段告诉、提醒自己放下杂念，专注当前的练习。 但对比以前，今天呼吸的部分其实已经比较专注了
+
 ---
 
 英语:
+
+179 words 24 sentences
+
+section 17
+
+Actually, Christopher is somewhat influenced by the relationship between Chris and Linda, and he doesn’t know the truth. Since Chris is lacking money right now, he can only answer, “You have nothing to do with Mom's leaving. It's a complex situation, but they just have to accept it.”
+When Chris successfully sells the machine, I can feel that money brings happiness through the atmosphere at that moment. By the way, being a good father is also important for gaining happiness.
 
 ---
 
 运动:
 
-##
+日常活动影响运动表现
+
+慢波比 30
+
+-   三角肌前束位置很早就酸痛，这段时间尽量躺着睡，久坐向前倾也要改善一下
+
+三角起身 20
+
+15kg 高脚杯深蹲 15 15
+
+-   做的腰比腿更早酸，得改善一下久坐
+
+## 2024-08-20
 
 冥想:
 
