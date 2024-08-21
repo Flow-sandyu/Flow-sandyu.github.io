@@ -319,15 +319,20 @@ I originally planned to end today’s practice, but I couldn’t help but finish
 
 冥想:
 
+12m 此刻此地 主动呼吸 慈心
+
+起床尽量不接触外界信息，快速洗漱完后直接冥想，把事情交给冥想后再解决，当下先专心冥想。把握好起床后杂念较少、比较清晰的这个时间段。这样冥想也会更舒服
+
 ---
 
 英语:
 
----
+166 words 20 sentences
 
-运动:
+Start new movie _The-Lion-King_
+Need to get familiar with the new accent again
 
-##
+## 2024-08-22
 
 冥想:
 
