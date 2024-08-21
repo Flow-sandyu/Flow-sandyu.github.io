@@ -286,6 +286,63 @@ When Chris successfully sells the machine, I can feel that money brings happines
 
 冥想:
 
+15m 此刻此地 主动呼吸 慈心
+
+今天杂念明显增多，是 infointake 的问题。昨天看了王佳佳案件，还有搜索了过去相关的案件，看太多了，信息过载或者信息消化不了，一直占用后台，然后在冥想的时候以杂念的形式出现了。
+
+对于离得有点远的案件，自己还是要控制时长，了解一下即可，对于正在进行没有结论且离的远的案件，更是需要自己的判断，而这更需要时间，所以相反 自己更要控制时长，思考自己真的需要这些信息吗
+
+---
+
+英语:
+
+264 words 30 sentences
+
+The-Pursuit-of-Happyness 完结 🎉
+![Img](./FILES/diary_of_2024-8.md/img-20240821081839.png)
+
+I originally planned to end today’s practice, but I couldn’t help but finish the movie after seeing the later scenes. It's moving that Chris finally got the job!
+
+---
+
+运动:
+
+今天强度降一点
+
+慢波比 20
+
+仰卧起坐 25\*2
+
+俯卧撑 20\*2
+
+## 2024-08-21
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
+---
+
+英语:
+
+---
+
+运动:
+
+##
+
+冥想:
+
 ---
 
 英语:
