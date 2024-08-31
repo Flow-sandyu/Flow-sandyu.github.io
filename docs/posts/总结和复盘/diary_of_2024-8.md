@@ -606,15 +606,41 @@ Plan for tomorrow:
 
 冥想:
 
+12m 此刻·冥想目的·新鲜感和珍惜 专注呼吸 慈心
+
+复习
+13【跟练】D5-呼吸的世界
+14【讲解】冥想的基石技术-No2-呼吸
+
+-   选择呼吸这种技术是为了建立专注，减少杂念，进而静下来
+-   呼吸的感受、锚点的定义和选择
+
+今天状态不错，身体几乎完全静止了。静止确实要前提，要尽可能少动，这个以前认识没这么深
+不知道是 infointake 控制起效，还是更专注冥想了，可能两者都有吧。继续保持
+
+Plan for tomorrow:
+练前复习 5m 笔记，确实是需要点新鲜感，而且复习会发现很多遗忘过的东西
+
 ---
 
 英语:
+
+275 words 35 sentences
+
+"Why was Mufasa so powerless as a king and he was the only one there? Anyway, Mufasa died too soon. Scar's idea was actually good in some ways, but he lacked luck."
 
 ---
 
 运动:
 
-##
+没想到昨天这 10m 的慢跑都能反馈一点点乳酸，虽然很轻微。 但确实提醒我了，可以偶尔把跑步放到训练里
+
+慢波比 20
+三角起身 20
+仰卧起坐 25\*2
+俯卧撑 20
+
+## 2024-08-31
 
 冥想:
 
