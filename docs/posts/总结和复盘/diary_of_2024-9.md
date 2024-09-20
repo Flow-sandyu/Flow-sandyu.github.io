@@ -520,7 +520,7 @@ Plan for tomorrow:
     ---
 
 发现了清醒度可能的出处
-![Img](/总结和复盘/FILES/diary_of_2024-9.md/img-20240919074002.png)
+![Img](./FILES/diary_of_2024-9.md/img-20240919074002.png)
 
 ---
 
