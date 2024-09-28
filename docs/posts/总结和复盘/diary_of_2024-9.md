@@ -726,8 +726,6 @@ DopamineNation 看完了， 5 章
 
 换句话就是耐心，难得句子听不懂很正常，正视自己的水平，把眼光放长，等下几个月的变化
 
-❤ 读 womanizing_tutor ✔️
-
 ---
 
 运动:
@@ -797,8 +795,6 @@ plot comment:
 "Natalie gets crushed when talking about marriage. I'm a bit captivated by the movie; Natalie's reaction is just too much."
 "you're young" really happens many times at this scene
 
-❤ 读 womanizing_tutor ✔️
-
 ---
 
 运动:
@@ -837,7 +833,6 @@ plot comment:
 至于塞什么，怎么塞。无脑用听典 app 就好，目前而言我还是很认同这个训练方法和理念的
 
 阅读:
-❤ 读 Zero_Chastity
 
 -   其实没什么特别的，就是慢慢读，难得就用念的方式、比如默读
 -   还有现在有道桌面版取词也方便，可以迅速查词、发音，不会打断阅读
@@ -870,8 +865,6 @@ plot comment:
 Its so funny when Natalie got angry to Ryan's 'gauntlet'
 
 虽然长句第一次听不下来，但现在复述的时候已经能够比较一次性完整的复述了
-
-❤ 读 Zero_Chastity
 
 ---
 
