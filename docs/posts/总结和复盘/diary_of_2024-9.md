@@ -726,6 +726,8 @@ DopamineNation 看完了， 5 章
 
 换句话就是耐心，难得句子听不懂很正常，正视自己的水平，把眼光放长，等下几个月的变化
 
+❤ 读 womanizing_tutor ✔️
+
 ---
 
 运动:
@@ -795,6 +797,8 @@ plot comment:
 "Natalie gets crushed when talking about marriage. I'm a bit captivated by the movie; Natalie's reaction is just too much."
 "you're young" really happens many times at this scene
 
+❤ 读 womanizing_tutor ✔️
+
 ---
 
 运动:
@@ -833,6 +837,7 @@ plot comment:
 至于塞什么，怎么塞。无脑用听典 app 就好，目前而言我还是很认同这个训练方法和理念的
 
 阅读:
+❤ 读 Zero_Chastity
 
 -   其实没什么特别的，就是慢慢读，难得就用念的方式、比如默读
 -   还有现在有道桌面版取词也方便，可以迅速查词、发音，不会打断阅读
@@ -845,17 +850,42 @@ plot comment:
 
 跑步确实轻松很多，有路就能跑，只要专心到双脚和呼吸就行，跑完就结束
 
-##
+## 2024-09-28
 
 冥想:
+
+14 冥想目的图景·回忆练习内容 专注呼吸 慈心
+
+因为没静下来，所以在用主动的技巧专注呼吸，铃声响起时，才意识到，时间过得这么快。
+
+然后冥想最初的思考也帮助了反思了最近的状态。先是明确自己在干什么，然后冥想的目的，然后今天是说希望最近的理想状态是什么
 
 ---
 
 英语:
 
+326 words 39 sentences
+
+plot comment:
+Its so funny when Natalie got angry to Ryan's 'gauntlet'
+
+虽然长句第一次听不下来，但现在复述的时候已经能够比较一次性完整的复述了
+
+❤ 读 Zero_Chastity
+
 ---
 
 运动:
+
+22m
+
+弹力带引体 3 3 6 4 4 （调整了弹力带的磅数，所以次数不是递减，但强度是递减的）
+
+等长离心\*3
+
+弹力带也有缺点，就是它的弹力不能均匀变化 尤其到引体的上半程时候就很容易发现拉不上去的情况。
+
+还有一个解决情况就是做等长离心的时候多点做上半部分的吧。做弹力带引体也尽量把全程做完
 
 ---
 
