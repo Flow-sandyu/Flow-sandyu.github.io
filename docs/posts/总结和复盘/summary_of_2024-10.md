@@ -12,7 +12,9 @@ tags:
 
 主要还是休息，放松。作息饮食都比较健康
 
-### 冥想
+各种做减法，实践上让自己更专注一些，放下细枝末节。
+
+### 冥想·简化了练后的文字记录
 
 冥想 7 天
 
@@ -23,13 +25,18 @@ tags:
 ### 英语 Up_in_the_Air 完结 🎉
 
 449 words 50 sentences
+
 390 words 49 sentences
+
 320 words 50 sentences
+
 524 words 75 sentences
+
 555 words 71 sentences Up_in_the_Air 完结 🎉
+
 547 words 61 sentences
 
-513words 47 sentences 开始 sully
+513 words 47 sentences 开始 sully
 
 阅读了 4 天
 
@@ -69,7 +76,7 @@ tags:
 -   【引体热身流程分享，愿伤病远离每一个人】 https://www.bilibili.com/video/BV1Zz4y197Xf/?share_source=copy_web&vd_source=430e5e350b7b924bb2bdeca5d7cbe4de
 -   【从易到难，引体向上 发力技术演示】 https://www.bilibili.com/video/BV1TE411c7pZ/?share_source=copy_web&vd_source=430e5e350b7b924bb2bdeca5d7cbe4de
 
-### 杂学
+### 杂学·《无限可能的身体》
 
 读完《无限可能的身体》
 
