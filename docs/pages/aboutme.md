@@ -3,8 +3,10 @@ sidebar: false
 ---
 
 # 关于我
+<img src="https://github.com/user-attachments/assets/d30cb46e-ce3c-4347-9abb-5aa2b50d08ab" width="30%">
+2026-3-23
 
-Flowsand，也叫流砂、陈安和。
+Flow，也叫流砂、陈安和。
 
 名字的来源是烟雨江南的《罪恶之城》，虽然现在看这本小说，会发现有很多缺点，但流砂这条线写的还是可以的，尤其是反转的时候。
 
